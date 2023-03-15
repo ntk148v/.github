@@ -1,6 +1,6 @@
 ---
 name: Today I learned
-description: Today I learned
+about: Today I learned
 body:
   - type: input
     id: title
