@@ -20,9 +20,7 @@ body:
       description: Insert your til content
 ---
 
----
-
-title: ''
-path: 'the path which be used to create new file'
-
----
+\-\-\-
+title:
+path: The path which be used to create new file
+\-\-\-
